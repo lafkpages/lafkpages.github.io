@@ -1,4 +1,5 @@
 # Scratch geolocation
+
 [Scratch geolocation](.) is a ScratchX extension for accessing client's geolocation information, such as:
 * Latitude
 * Longitude
@@ -9,9 +10,11 @@
 * Geolocation accuracy
 
 ## Downloads
+
 You can download the [Scratch geolocation](.) files here:
 * [**.sbx**](./scratch-geolocation.sbx)
 * [**.js**](./scratch-geolocation.js)
+
 Or link to them:
 * **.sbx**: `https://lafkpages.github.io/ScratchGeolocation/scratch-geolocation.sbx`
 * **.js**:  `https://lafkpages.github.io/ScratchGeolocation/scratch-geolocation.js`
