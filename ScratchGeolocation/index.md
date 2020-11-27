@@ -12,3 +12,6 @@
 You can download the [Scratch geolocation](.) files here:
 * [.sbx](./scratch-geolocation.sbx)
 * [.js](./scratch-geolocation.js)
+Or link to them:
+.sbx: `https://lafkpages.github.io/ScratchGeolocation/scratch-geolocation.sbx`
+.js: `https://lafkpages.github.io/ScratchGeolocation/scratch-geolocation.js`
