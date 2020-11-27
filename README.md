@@ -1,3 +1,1 @@
 # lafkpages.github.io
-
-lalala
