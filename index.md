@@ -2,3 +2,4 @@
 
 Our projects:
 * [Scratch geolocation](./ScratchGeolocation)
+* [URLCompleter](./URLCompleter)
