@@ -13,7 +13,7 @@
 
 To upload it to [ScratchX](https://scratchx.org), first you have to [download it as a _.js_ file](./scratch-geolocation.js). Then go to the [ScratchX editor](https://scratchx.org/#scratch) or to your ScratchX project, go to `More blocks`, and right-click `Load Experimental Extension`. Then select the `scratch-geolocation.js` file and click `open`.
 
-[Screenshot](./Screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## Downloads
 
